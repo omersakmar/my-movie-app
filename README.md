@@ -1,1 +1,1 @@
-My movie app = https://omersakmar-movie-site.netlify.app/
+My movie app = https://omersakmar-tmdb-app.netlify.app/
